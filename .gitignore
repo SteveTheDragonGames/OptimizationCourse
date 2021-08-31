@@ -10,6 +10,12 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+#GameDevHQ
+/[Aa]ssets/GameDevHQ
+/[Aa]ssets/GameDevHQ/
+/[Aa]ssets/GameDevHQ*
+
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
