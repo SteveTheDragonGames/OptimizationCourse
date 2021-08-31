@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b9e31c4b9aa970874a62ceab89c4e451
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _audioClip: {fileID: 8300000, guid: 75676f361bdfeaf41a46623e95df3dbc, type: 3}
+  - _enemyLaser: {fileID: 4607562898117239082, guid: 7de166e54c38853bcb407d461f4f1a6f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

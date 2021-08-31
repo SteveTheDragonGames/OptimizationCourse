@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fa36cf6a5ea9d0d0abcb2b71874cc4ec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _papi: {instanceID: 0}
+  - _miniBoom: {fileID: 2078615227446897435, guid: 39f03fc1153fbac20b3632198cede754, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

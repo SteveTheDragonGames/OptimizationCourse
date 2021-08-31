@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 78ed6da7ec9fe0eb393a9cc7757b0731
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _enemyShieldHolder: {fileID: 1987107951859439107, guid: ed05e8408438257deaf1aec3f48f3e61, type: 3}
+  - _enemyLaser: {fileID: 8506025685509265935, guid: 52228fdd2e4ac0681be9af8ead9af344, type: 3}
+  - _enemyLaser_Clip: {fileID: 8300000, guid: 75676f361bdfeaf41a46623e95df3dbc, type: 3}
+  - _explosionHolder: {fileID: 6733522616298831898, guid: 4f4791a18dafef503a32fc9a1ccf4827, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

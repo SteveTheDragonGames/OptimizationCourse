@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 5699d56dd046b31d394ce78434626e8e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _ammoBuzzer: {fileID: 8300000, guid: 1af12554c2f587c2a9239a7145d607eb, type: 3}
+  - _thrusterSound: {instanceID: 0}
+  - _laserPrefab: {instanceID: 0}
+  - _laser_Clip: {instanceID: 0}
+  - _thrust_Clip: {instanceID: 0}
+  - _explosion_Clip: {instanceID: 0}
+  - _explosion_anim: {instanceID: 0}
+  - _tripleShot: {instanceID: 0}
+  - _shield: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
